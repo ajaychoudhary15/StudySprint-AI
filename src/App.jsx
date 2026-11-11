@@ -26,7 +26,7 @@ import {
 } from "lucide-react";
 import "./App.css";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://studysprint-ai-1.onrender.com";
 
 const initialSubjects = [
   { name: "Data Structures", progress: 65, color: "#7865ed" },
